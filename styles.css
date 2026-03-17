@@ -12,14 +12,14 @@
     text-align: center;
 }
 
+.paragrafo {
+    color: red;
+}
+
 .titulo {
     color: blue;
     font-weight: bold;
     font-size: 32px;
-}
-
-.paragrafo {
-    color: red;
 }
 
 .conteudo {
